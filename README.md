@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/letpires/ICU_prediction_sirio_libanes/blob/main/image/Projeto%20final_bootcamp.png" >
+  <img src="https://github.com/letpires/ICU_prediction_sirio_libanes/blob/main/banner_projeto_final.png" >
 </p>
 
 <h2 align="center">
@@ -20,7 +20,7 @@
 
 ## 📄 Como este repositório está estruturado
 
-- Veja os dados utilizados [DADOS DO HOSPITAL SÍRIO LIBANÊS](https://github.com/letpires/ICU_prediction_sirio_libanes/tree/main/data);
+- Veja os dados utilizados [DADOS DO HOSPITAL SÍRIO LIBANÊS](https://github.com/letpires/ICU_prediction_sirio_libanes/blob/main/Kaggle_Sirio_Libanes_ICU_Prediction.xlsx);
 - Leia o notebook do projeto [IMPLEMENTANDO MODELOS DE ML NA COVID 19](https://github.com/letpires/ICU_prediction_sirio_libanes/blob/main/Leticia_Pires.ipynb).
 
 ## ➕ Contexto
