@@ -18,7 +18,7 @@
    </a>
 </p>
 
-## 📄 Como este repositório está estruturado
+## 📄 Estrutura do repositório
 
 - Veja os dados utilizados [DADOS DO HOSPITAL SÍRIO LIBANÊS](https://github.com/letpires/ICU_prediction_sirio_libanes/blob/main/Kaggle_Sirio_Libanes_ICU_Prediction.xlsx);
 - Leia o notebook do projeto [IMPLEMENTANDO MODELOS DE ML NA COVID 19](https://github.com/letpires/ICU_prediction_sirio_libanes/blob/main/Leticia_Pires.ipynb).
