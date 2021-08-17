@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/letpires/ICU_prediction_sirio_libanes/blob/main/banner_projeto_final.png" >
+  <img src="https://github.com/letpires/icu_prediction_sirio_libanes/blob/main/Predi%C3%A7%C3%A3o%20de%20leitos%20de%20UTI.png" >
 </p>
 
 <h2 align="center">
